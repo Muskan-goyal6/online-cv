@@ -69,9 +69,15 @@ education:
 #           - Bullet point
 #           - Bullet point
 experiences:
-    - role: Volunteer at ICICC 2020 (International Conference On Innovative Computing And Communication)
-    - role: Volunteer at ICDAM 2020 (International Conference on Data Analytics and Management)
-    - role: Research And Development Lab Coordinator at CSE Department of Maharaja Agrasen Institute of Technology. 
+    - role: Volunteer at ICICC 2020 
+      details: |
+        (International Conference On Innovative Computing And Communication)
+    - role: Volunteer at ICDAM 2020 
+       details: |
+         (International Conference on Data Analytics and Management)
+    - role: Research And Development Lab Coordinator  
+      details: |
+          At CSE Department of Maharaja Agrasen Institute of Technology
 #       time: 2015 - Present
 #       company: Startup Hubs, San Francisco
 #       details: |
@@ -189,5 +195,5 @@ skills:
       - name: SQL
         level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
