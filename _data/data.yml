@@ -49,11 +49,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Muskan Goyal, a third-year undergraduate student pursuing Computer Science and Engineering from Maharaja Agrasen Institute Of Technology. 
+      I am Muskan Goyal, a third-year undergraduate student pursuing Computer Science and Engineering from Maharaja Agrasen Institute of Technology. 
       My main interests include machine learning, deep learning and computer vision . I am proficient in programming languages C++ and Python.
 education:
-    - degree: Bachelor Of Technology In Computer Science And Engineering
-      university: Maharaja Agrasen Institute Of Technology, Delhi
+    - degree: Bachelor of Technology in Computer Science and Engineering
+      university: Maharaja Agrasen Institute of Technology, Delhi
       time: 2017 - 2021
       details: |
         Working on various research-oriented projects using Computer Vision and Deep Learning 
@@ -72,10 +72,10 @@ education:
 experiences:
     - role: Volunteer at ICICC 2020 
       details: |
-        (International Conference On Innovative Computing And Communication)
+        International Conference On Innovative Computing And Communication
     - role: Volunteer at ICDAM 2020 
       details: |
-         (International Conference on Data Analytics and Management)
+         International Conference on Data Analytics and Management
     - role: Research And Development Lab Coordinator  
       details: |
           At CSE Department of Maharaja Agrasen Institute of Technology
